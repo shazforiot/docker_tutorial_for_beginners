@@ -1,0 +1,28 @@
+# Exclude node_modules — will be installed fresh inside the container
+node_modules
+
+# Exclude npm debug log
+npm-debug.log*
+
+# Exclude git files
+.git
+.gitignore
+
+# Exclude environment files (never bake secrets into an image!)
+.env
+.env.*
+
+# Exclude editor config
+.vscode
+.idea
+*.swp
+
+# Exclude test files (keep image lean)
+test
+tests
+*.test.js
+*.spec.js
+
+# Exclude docs
+README.md
+docs
