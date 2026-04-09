@@ -6,7 +6,7 @@ A simple Todos REST API built with Express.js and MongoDB, fully containerized.
 <div align="center">
 <h3>Docker in 10 Minutes – Complete Beginner's Guide</h3>
 <a href="https://youtu.be/ZyWBs0CU2wk">
-<img src="https://img.youtube.com/vi/ZyWBs0CU2wk/maxresdefault.jpg" alt="Watch the Docker Tutorial" style="width:100%; max-width:600px;">
+<img src="https://img.youtube.com/vi/ZyWBs0CU2wk/hqdefault.jpg" alt="Watch the Docker Tutorial" style="width:100%; max-width:600px;">
 </a>
 <p><i>Click the image to watch the full tutorial on YouTube</i></p>
 </div>
