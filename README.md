@@ -3,8 +3,6 @@
 Demo project for the **"Docker in 10 Minutes"** YouTube tutorial.
 A simple Todos REST API built with Express.js and MongoDB, fully containerized.
 
-Checkout the full video here:
-
 Check out the full video here:
 
 <div align="center">
