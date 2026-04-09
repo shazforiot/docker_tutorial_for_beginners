@@ -6,6 +6,7 @@ A simple Todos REST API built with Express.js and MongoDB, fully containerized.
 Checkout the full video here:
 
 Check out the full video here:
+
 <div align="center">
   <a href="https://youtu.be/ZyWBs0CU2wk">
     <img src="https://img.youtube.com/vi/ZyWBs0CU2wk/maxresdefault.jpg" alt="Watch the video" style="width:100%;">
